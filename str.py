@@ -34,13 +34,13 @@ ptint(str9[-7]) #return 8th index using -ve indexing
 
 
 #ESCAPE SEQUENCES
-str10 = 'welcome to \'Gbenga s'\ class' #escape sequence in single quote
+str10 ='welcome to \'sabi programmers'\ class' #escape sequence in single quote
 print(str10)
 
-str11 = "welcome to \"Gbenga s"\ class" #escape sequence in double quote
+str11 = "welcome to \"sabi","programmers"\ class" #escape sequence in double quote
 print(str11)
 
-str12 = r'welcome to \'Gbenga s'\ class'
+str12 = r'welcome to \'sabi programmers'\ class'
  #ignoring sequence using escape s
 
 str13 = 'http:\\sabiprogrammers.com\\home' #escape sequence to include back slash
